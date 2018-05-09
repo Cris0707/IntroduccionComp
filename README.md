@@ -1,1 +1,2 @@
 # IntroduccionComp
+Cristina Aparecida Isaias
